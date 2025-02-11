@@ -1,6 +1,4 @@
-##  NOTE: The SCIM effort has a new name and location
-- This site is now deprecated.
-- Join us instead at https://github.com/ietf-scitt.
+
 
 ## Overview
 
